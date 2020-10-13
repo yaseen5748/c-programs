@@ -1,2 +1,2 @@
-# c-programs
+# c++ programs
 c++ programs for submission
